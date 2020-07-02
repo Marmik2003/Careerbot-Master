@@ -27,13 +27,18 @@ word_dict = {
 	"study for class 12":["Which Stream You like to go? \n        Study Science A group \n        Study Science B group \n        Study Arts \n        Study Commerce \n        Please Type as above(include the word: study)"],
 	"i want to study class 12":["Which Stream You like to go? \n        Study Science A group \n        Study Science B group \n        Study Arts \n        Study Commerce \n        Please Type as above(include the word: study)"],
 
-	"study  for hsc science a group": ["This is a Good choice! \n You can also prepare for JEE/BITSAT/KVPY"],
+	"study for hsc science a group": ["This is a Good choice! \n You can also prepare for JEE/BITSAT/KVPY"],
+	"study for h.s.c. science a group": ["This is a Good choice! \n You can also prepare for JEE/BITSAT/KVPY"],
+	"study hsc science a group": ["This is a Good choice! \n You can also prepare for JEE/BITSAT/KVPY"],
 	"study science a group": ["This is a Good choice! \n You can also prepare for JEE/BITSAT/KVPY"],
 	"i want to study science a group": ["This is a Good choice! \n You can also prepare for JEE/BITSAT/KVPY"],
+	"i want to study hsc science a group": ["This is a Good choice! \n You can also prepare for JEE/BITSAT/KVPY"],
+	"i want to study h.s.c. science a group": ["This is a Good choice! \n You can also prepare for JEE/BITSAT/KVPY"],
 
 	"study for hsc science b group":["Good Idea! You can be Doctor in future. \n You must prepare for NEET"],
 	"study science b group":["Good Idea! You can be Doctor in future. \n You must prepare for NEET"],
 	"i want to study science b group":["Good Idea! You can be Doctor in future. \n You must prepare for NEET"],
+	
 
 	"other":["These courses are private courses governed by private Institutes/Universities \n This is the list of private courses \n      Interior Design \n      Web Design \n      Cyber security \n      Graphics \n      Animation \n      Health Inspector \n      Sanitary Inspector \n      You can call on +910000000000 for more information!"],
 
@@ -42,4 +47,3 @@ word_dict = {
 	"12th pass":["Which Stream? \n        Arts \n        Commerce \n        Science \n"],
 
 }
-
